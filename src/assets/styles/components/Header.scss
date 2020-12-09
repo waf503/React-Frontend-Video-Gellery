@@ -1,3 +1,8 @@
+.Mi_logo:link, .Mi_logo:visited, .Mi_logo:link {
+  text-decoration: none;
+  color: white;
+}
+
 
 .header {
     align-items: center;
@@ -9,6 +14,8 @@
     top: 0px;
     width: 100%;
   }
+
+  
   
   .header__img {
     margin-left: 30px;
